@@ -1,0 +1,4 @@
+Contract,Total,Churned,Avg_Monthly,Avg_Tenure,Churn Rate %,Retention Rate %
+Month-to-month,3875,1655,66.4,18.04,42.7,57.3
+One year,1473,166,65.05,42.04,11.3,88.7
+Two year,1695,48,60.77,56.74,2.8,97.2

@@ -1,0 +1,11 @@
+Metric,Value
+Total Customers,7043.0
+Churned Customers,1869.0
+Retained Customers,5174.0
+Churn Rate %,26.5
+Retention Rate %,73.5
+Avg Tenure (months),32.4
+Avg Tenure Churned (mo),18.0
+Avg Tenure Retained (mo),37.6
+Avg Monthly Charges ($),64.76
+Monthly Revenue Lost ($),139130.85
