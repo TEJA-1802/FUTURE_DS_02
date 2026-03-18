@@ -24,7 +24,7 @@ Analyze Telco customer data to identify churn patterns, key retention drivers, a
 FUTURE_DS_02/
 ├── telco_churn.csv                    ← Raw dataset (7,043 customers)
 ├── churn_analysis.py                  ← Python: cleaning, KPIs, exports Power BI CSVs
-├── powerbi_data/
+├── files(2)/
 │   ├── master_table.csv               ← Full cleaned dataset with engineered features
 │   ├── kpi_summary.csv                ← 10 headline KPIs
 │   ├── churn_by_contract.csv          ← Churn rate by contract type
